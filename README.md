@@ -161,4 +161,4 @@ That license applies only to this project's original patcher code. It does **not
 
 - **Micky1979** — author of ESP Mounter Pro
 - **Mirone** — original ESP Mounter Pro icon credit as listed by the author
-- Tahoe compatibility investigation and patch: **Alexandru Dedu / StefanAlMare**
+- Tahoe compatibility investigation and patch: **StefanAlMare**
