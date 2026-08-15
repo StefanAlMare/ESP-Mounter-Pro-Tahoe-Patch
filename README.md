@@ -76,15 +76,9 @@ https://www.insanelymac.com/forum/files/file/566-esp-mounter-pro/
 
 ## Download
 
-**[Download ESP Mounter Pro Tahoe Patcher 2.0](downloads/ESP-Mounter-Pro-Tahoe-Patcher-2.0-PUBLIC.zip)**
+Everything needed for this compatibility patch is available in the repository's **Releases** section.
 
-SHA-256:
-
-```text
-64a018997c571532d77debcb3c552d9ebd70b0fa46841059b3214431ffbf7f82
-```
-
-The repository contains only our compatibility patcher. ESP Mounter Pro itself is intentionally not included.
+ESP Mounter Pro itself is intentionally not included; users must provide their own original ESP Mounter Pro 1.9.1 copy.
 
 ## How to use
 
