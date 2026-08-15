@@ -76,7 +76,13 @@ https://www.insanelymac.com/forum/files/file/566-esp-mounter-pro/
 
 ## Download
 
-The public patcher is available in the repository under `downloads/` and will also be published as a GitHub release when available.
+**[Download ESP Mounter Pro Tahoe Patcher 2.0](downloads/ESP-Mounter-Pro-Tahoe-Patcher-2.0-PUBLIC.zip)**
+
+SHA-256:
+
+```text
+64a018997c571532d77debcb3c552d9ebd70b0fa46841059b3214431ffbf7f82
+```
 
 The repository contains only our compatibility patcher. ESP Mounter Pro itself is intentionally not included.
 
